@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -85,7 +85,7 @@ footer {
       <input type="text" id="searchInput" placeholder="Search wallpapers...">
       <button id="searchBtn">Search</button>
     </div>
-    <a href="head.html></a>
+    <a href="index.html"> Sign up</a>
   </header>
 
   <main>
