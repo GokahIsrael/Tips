@@ -85,6 +85,7 @@ footer {
       <input type="text" id="searchInput" placeholder="Search wallpapers...">
       <button id="searchBtn">Search</button>
     </div>
+    <a href="head.html></a>
   </header>
 
   <main>
